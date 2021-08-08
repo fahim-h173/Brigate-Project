@@ -1,0 +1,26 @@
+
+.menue{
+    width: 1170px;
+    float: left;
+}
+
+ul.menueItem{
+    list-style: none;
+    float: right;
+}
+ul.menueItem li{
+    float: left;
+
+}
+ul.menueItem li a{
+    text-decoration: none;
+    display: block;
+    font-family:sans-serif;
+    text-transform: uppercase;
+    padding: 15px;
+    color: #232121;
+}
+ul.menueItem li a:hover{
+    color: #ff5200;
+    transition: 1.5s;
+}

@@ -395,7 +395,8 @@ div#contactbtn a {
   width: 258px;
   overflow: hidden;
   float: left;
-  margin-right: 35px;
+  margin-right: 33px;
+  border: 1px solid #ddd;
 }
 .singlePost:last-child {
   margin-right: 0px;
